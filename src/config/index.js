@@ -7,7 +7,7 @@ export default {
     "I may not with you everyday, but I love you everyday.",
     "I love you.",
   ],
-  panggilan: ["Difa"],
+  panggilan: ["Kamu"],
   colors: [
     "#FF6900",
     "#FCB900",
