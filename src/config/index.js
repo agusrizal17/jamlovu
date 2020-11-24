@@ -7,7 +7,7 @@ export default {
     "Maaf kalau aku punya salah ke kalian",
     "sampai jumpa dilain waktu....",
   ],
-  panggilan: ["Fuji - Ghea"],
+  panggilan: ["Fuji & Ghea"],
   colors: [
     "#FF6900",
     "#FCB900",
