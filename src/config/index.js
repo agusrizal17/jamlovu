@@ -1,13 +1,13 @@
 export default {
   ucapan: [
-    "Whatever happens, keep breathing",
-    "Pam pam pararam ceklek jedar\nPararam ram parararam ram",
-    "Hey! I wuv chuuuu! UwU",
-    "I love you.",
-    "I may not with you everyday, but I love you everyday.",
-    "I love you.",
+    "Hati-hati dijalan yah :)",
+    "Semoga selamat sampe tujuan",
+    "Jangan kapok maen ke jogja lagi",
+    "Aku titip salam buat mas ardhi yang katanya mirip sama aku wkwkwkwk",
+    "Maaf kalau aku punya salah ke kalian",
+    "sampai jumpa dilain waktu....",
   ],
-  panggilan: ["Kamu"],
+  panggilan: ["Fuji & Ghea"],
   colors: [
     "#FF6900",
     "#FCB900",
